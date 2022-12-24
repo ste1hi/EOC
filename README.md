@@ -1,7 +1,7 @@
 # About this program
 This is a program to remind teacher to finish the class.
 # Download
-[Download it.](./alarm/download)
+Download it from releases or [baidu.](./alarm/download)
 # Use
 It's quite simple to use it.
 ## Basic use
